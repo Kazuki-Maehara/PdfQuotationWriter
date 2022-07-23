@@ -9,7 +9,8 @@ Oftentimes, there exists a frigging boring tasks in manufacturing industries. Wo
 ## How
 There are excellent modules created by magnificent team or engineers. Why don't you utilize it?
 - https://github.com/signintech/gopdf
-- https://github.com/pdfcpu/pdfcpu
+- https://pkg.go.dev/github.com/dslipak/pdf
+
 and so on.
 
 
