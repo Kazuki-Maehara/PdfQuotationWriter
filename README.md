@@ -10,12 +10,11 @@ Oftentimes, there exists a frigging boring tasks in manufacturing industries. Wo
 There are excellent modules created by magnificent team or engineers. Why don't you utilize it?
 - https://github.com/signintech/gopdf
 - https://pkg.go.dev/github.com/dslipak/pdf
-
 and so on.
 
 
 ## What
-This program needs a specific-type-of-PDF file. So it's not intended to be used in general usage.s
+This program needs a specific-type-of-PDF file. So it's not intended to be used in general usage.
 However, in automobile parts manufacturing industry, Hiroshima in Japan, You'll find a better way to manage your *boring paperwork*. That's what I wanted to solve.
 Usage:
 1. Put *the* pdf in "inputeData"
