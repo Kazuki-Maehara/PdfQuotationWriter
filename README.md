@@ -77,3 +77,6 @@ So like<br>
 After that, you can do whatever you like with these output-files at you disposal.<br>
 このあとは、お好きなように　どうぞ。
 
+
+先にも述べた通り、汎用性がないのが難点です。　実際に利用する際は出力されるフォーマットに対して、データの書き込み位置を調整する必要があるので。　
+
