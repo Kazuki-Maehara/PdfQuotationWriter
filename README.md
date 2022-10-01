@@ -22,4 +22,11 @@ Usage:
 3. Check out results in "outputaData/pdf"
 then, upload each result to a corresponding request on customers' EDI.
 
+
+Step.1
+Place input-pdf in "./inputData" directory.
 ![iamge_1](https://github.com/Kazuki-Maehara/PdfQuotationWriter/blob/image/image_1.png "image_1")
+
+Step.2
+Run the compiled executable file or command "go run ." in the root of this project directroy.
+![iamge_2](https://github.com/Kazuki-Maehara/PdfQuotationWriter/blob/image/image_2.png "image_2")
