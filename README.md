@@ -53,7 +53,7 @@ Then, an intermediate file gets created.<br>
 ![image_3](https://github.com/Kazuki-Maehara/PdfQuotationWriter/blob/image/image_3.png "image_3")  
 
 Edit the intermediate file, typing in appropriate information like unit prices and remarks.<br>
-中間ファイルに適切な情報を入力してくdささい。各種単価や備考情報などなど。
+中間ファイルに適切な情報を入力してください。各種単価や備考情報などなど。
 
 ![image_4](https://github.com/Kazuki-Maehara/PdfQuotationWriter/blob/image/image_4.png "image_4")  
 
