@@ -18,6 +18,7 @@ This program needs a specific-type-of-PDF file. So it's not intended to be used 
 However, in automobile parts manufacturing industry, Hiroshima in Japan, You'll find a better way to manage your *boring paperwork*. That's what I wanted to solve.
 Usage:
 1. Put *the* pdf in "inputeData"
+![iamge_1](https://github.com/Kazuki-Maehara/PdfQuotationWriter/blob/image/image_1.png "image_1")
 2. Run the program with either CLI or GUIs
 3. Check out results in "outputaData/pdf"
 then, upload each result to a corresponding request on customers' EDI.
